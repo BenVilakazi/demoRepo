@@ -1,3 +1,3 @@
 # demoRepo
 
-Some Description!
+Some description!
